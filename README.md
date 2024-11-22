@@ -12,7 +12,7 @@ INSTALLATION INSTRUCTIONS
 
 1: Download the respective program files
 2: Install Python
-3: install the respective libraries using -r requirements.txt
+3: install the respective libraries using -r requirements.txt(AS OF 11/22/2024 this is not needed, Will be updated later if new libraries need to be updated and if so will also be reflected within Github)
 4: lastly run the program using python movie_suggester.py
 
 
